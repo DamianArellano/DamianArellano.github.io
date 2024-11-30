@@ -11,7 +11,7 @@ I am majoring in computer science at CSUF, with plans of graduating in 2028.
 
 * Lab 8
 
-    Lab 8 was challenging, and I worked with someone who was clearly much more experienced than I was. We used for loops to find an average of scores, and we created a knitting pattern in part 2. While I know how loops work and how to write them, the execution was much harder, mainly due to the variables. It helped me remember that I still have a lot to learn and motivated me to program more often on my free time, which I did start doing!
+    Lab 8 was challenging, and I worked with someone who was clearly much more experienced than I was. We used for loops to find an average of scores, and we created a knitting pattern in part 2. While I know how loops work and how to write them, the execution was much harder, mainly due to the variables. It was a good reminder that I still have a lot to learn and motivated me to program more often on my free time, which I did start doing!
 
 * Lab 11
 
